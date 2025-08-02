@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><response><header>
+  <resultCode>0000</resultCode>
+  <resultMsg>OK</resultMsg>
+</header><body><items>
+  <item>
+    <addr1>강원특별자치도 정선군 임계면 봉산리</addr1>
+    <addr2></addr2>
+    <areacode>32</areacode>
+    <booktour>0</booktour>
+    <cat1>A02</cat1>
+    <cat2>A0201</cat2>
+    <cat3>A02010700</cat3>
+    <contentid>125776</contentid>
+    <contenttypeid>12</contenttypeid>
+    <createdtime>20020510090000</createdtime>
+    <dist>2704.4589078266854</dist>
+    <firstimage>http://tong.visitkorea.or.kr/cms/resource/16/3044516_image2_1.jpg</firstimage>
+    <firstimage2>http://tong.visitkorea.or.kr/cms/resource/16/3044516_image3_1.jpg</firstimage2>
+    <cpyrhtDivCd>Type3</cpyrhtDivCd>
+    <mapx>128.8263954774</mapx>
+    <mapy>37.4732355895</mapy>
+    <mlevel>6</mlevel>
+    <modifiedtime>20240603132240</modifiedtime>
+    <sigungucode>11</sigungucode>
+    <tel></tel>
+    <title>구미정</title>
+  </item>
+</items>  <numOfRows>1</numOfRows>
+  <pageNo>1</pageNo>
+  <totalCount>1</totalCount>
+</body></response>

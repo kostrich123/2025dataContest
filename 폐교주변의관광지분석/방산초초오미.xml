@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><response><header>
+  <resultCode>0000</resultCode>
+  <resultMsg>OK</resultMsg>
+</header><body><items>
+  <item>
+    <addr1>강원특별자치도 양구군 방산면 건솔리</addr1>
+    <addr2>~오미리</addr2>
+    <areacode>32</areacode>
+    <booktour>0</booktour>
+    <cat1>A01</cat1>
+    <cat2>A0101</cat2>
+    <cat3>A01010900</cat3>
+    <contentid>127897</contentid>
+    <contenttypeid>12</contenttypeid>
+    <createdtime>20030807090000</createdtime>
+    <dist>780.2548423578226</dist>
+    <firstimage></firstimage>
+    <firstimage2></firstimage2>
+    <cpyrhtDivCd></cpyrhtDivCd>
+    <mapx>127.9159674031</mapx>
+    <mapy>38.1840440654</mapy>
+    <mlevel>6</mlevel>
+    <modifiedtime>20240607164714</modifiedtime>
+    <sigungucode>6</sigungucode>
+    <tel></tel>
+    <title>수입천(하천)</title>
+  </item>
+  <item>
+    <addr1>강원특별자치도 양구군 방산면 평화로 4818</addr1>
+    <addr2>(방산면)</addr2>
+    <areacode>32</areacode>
+    <booktour>0</booktour>
+    <cat1>A02</cat1>
+    <cat2>A0203</cat2>
+    <cat3>A02030100</cat3>
+    <contentid>129293</contentid>
+    <contenttypeid>12</contenttypeid>
+    <createdtime>20061031090000</createdtime>
+    <dist>148.26576348305085</dist>
+    <firstimage>http://tong.visitkorea.or.kr/cms/resource/49/2632949_image2_1.bmp</firstimage>
+    <firstimage2>http://tong.visitkorea.or.kr/cms/resource/49/2632949_image2_1.bmp</firstimage2>
+    <cpyrhtDivCd>Type3</cpyrhtDivCd>
+    <mapx>127.9213278757</mapx>
+    <mapy>38.1889602596</mapy>
+    <mlevel>6</mlevel>
+    <modifiedtime>20250117145647</modifiedtime>
+    <sigungucode>6</sigungucode>
+    <tel></tel>
+    <title>오미마을</title>
+  </item>
+  <item>
+    <addr1>강원특별자치도 양구군 방산면 오미리</addr1>
+    <addr2></addr2>
+    <areacode>32</areacode>
+    <booktour>0</booktour>
+    <cat1>A01</cat1>
+    <cat2>A0101</cat2>
+    <cat3>A01011700</cat3>
+    <contentid>2568709</contentid>
+    <contenttypeid>12</contenttypeid>
+    <createdtime>20181122024715</createdtime>
+    <dist>1941.6881035027975</dist>
+    <firstimage></firstimage>
+    <firstimage2></firstimage2>
+    <cpyrhtDivCd></cpyrhtDivCd>
+    <mapx>127.9043575019</mapx>
+    <mapy>38.1790972003</mapy>
+    <mlevel>6</mlevel>
+    <modifiedtime>20250306175045</modifiedtime>
+    <sigungucode>6</sigungucode>
+    <tel></tel>
+    <title>파서탕</title>
+  </item>
+</items>  <numOfRows>3</numOfRows>
+  <pageNo>1</pageNo>
+  <totalCount>3</totalCount>
+</body></response>

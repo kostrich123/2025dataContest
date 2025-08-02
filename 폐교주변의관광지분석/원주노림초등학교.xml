@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><response><header>
+  <resultCode>0000</resultCode>
+  <resultMsg>OK</resultMsg>
+</header><body><items>
+  <item>
+    <addr1>경기도 여주시 강천면 부평리</addr1>
+    <addr2>472-2</addr2>
+    <areacode>31</areacode>
+    <booktour>0</booktour>
+    <cat1>A01</cat1>
+    <cat2>A0101</cat2>
+    <cat3>A01010500</cat3>
+    <contentid>127731</contentid>
+    <contenttypeid>12</contenttypeid>
+    <createdtime>20031114090000</createdtime>
+    <dist>2362.281705656263</dist>
+    <firstimage></firstimage>
+    <firstimage2></firstimage2>
+    <cpyrhtDivCd></cpyrhtDivCd>
+    <mapx>127.7540206282</mapx>
+    <mapy>37.2573513853</mapy>
+    <mlevel>6</mlevel>
+    <modifiedtime>20250318173651</modifiedtime>
+    <sigungucode>20</sigungucode>
+    <tel></tel>
+    <title>세종천문대</title>
+  </item>
+</items>  <numOfRows>1</numOfRows>
+  <pageNo>1</pageNo>
+  <totalCount>1</totalCount>
+</body></response>

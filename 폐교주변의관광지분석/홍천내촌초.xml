@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><response><header>
+  <resultCode>0000</resultCode>
+  <resultMsg>OK</resultMsg>
+</header><body><items>
+  <item>
+    <addr1>강원특별자치도 홍천군 내촌면 물걸리</addr1>
+    <addr2>1593</addr2>
+    <areacode>32</areacode>
+    <booktour>0</booktour>
+    <cat1>A02</cat1>
+    <cat2>A0202</cat2>
+    <cat3>A02020700</cat3>
+    <contentid>125736</contentid>
+    <contenttypeid>12</contenttypeid>
+    <createdtime>20031107090000</createdtime>
+    <dist>2679.986951307212</dist>
+    <firstimage>http://tong.visitkorea.or.kr/cms/resource/00/3465500_image2_1.JPG</firstimage>
+    <firstimage2>http://tong.visitkorea.or.kr/cms/resource/00/3465500_image3_1.JPG</firstimage2>
+    <cpyrhtDivCd>Type3</cpyrhtDivCd>
+    <mapx>128.1468223564</mapx>
+    <mapy>37.7848532123</mapy>
+    <mlevel>6</mlevel>
+    <modifiedtime>20250109140345</modifiedtime>
+    <sigungucode>16</sigungucode>
+    <tel></tel>
+    <title>기미만세공원</title>
+  </item>
+</items>  <numOfRows>1</numOfRows>
+  <pageNo>1</pageNo>
+  <totalCount>1</totalCount>
+</body></response>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><response><header>
+  <resultCode>0000</resultCode>
+  <resultMsg>OK</resultMsg>
+</header><body><items>
+  <item>
+    <addr1>강원특별자치도 정선군 고한읍 물한리길 8</addr1>
+    <addr2></addr2>
+    <areacode>32</areacode>
+    <booktour></booktour>
+    <cat1>A02</cat1>
+    <cat2>A0202</cat2>
+    <cat3>A02020200</cat3>
+    <contentid>580519</contentid>
+    <contenttypeid>12</contenttypeid>
+    <createdtime>20080627201726</createdtime>
+    <dist>1626.927675776446</dist>
+    <firstimage>http://tong.visitkorea.or.kr/cms/resource/00/1827300_image2_1.jpg</firstimage>
+    <firstimage2>http://tong.visitkorea.or.kr/cms/resource/00/1827300_image3_1.jpg</firstimage2>
+    <cpyrhtDivCd>Type3</cpyrhtDivCd>
+    <mapx>128.8352025949</mapx>
+    <mapy>37.2115686650</mapy>
+    <mlevel>6</mlevel>
+    <modifiedtime>20250316152044</modifiedtime>
+    <sigungucode>11</sigungucode>
+    <tel>033-590-1000</tel>
+    <title>메이힐스리조트</title>
+  </item>
+  <item>
+    <addr1>강원특별자치도 정선군 고한읍 하이원길 424</addr1>
+    <addr2></addr2>
+    <areacode>32</areacode>
+    <booktour></booktour>
+    <cat1>A02</cat1>
+    <cat2>A0202</cat2>
+    <cat3>A02020200</cat3>
+    <contentid>1362194</contentid>
+    <contenttypeid>12</contenttypeid>
+    <createdtime>20110812191442</createdtime>
+    <dist>1178.2773531090636</dist>
+    <firstimage>http://tong.visitkorea.or.kr/cms/resource/20/2733720_image2_1.jpg</firstimage>
+    <firstimage2>http://tong.visitkorea.or.kr/cms/resource/20/2733720_image3_1.jpg</firstimage2>
+    <cpyrhtDivCd>Type3</cpyrhtDivCd>
+    <mapx>128.8391162601</mapx>
+    <mapy>37.2073608907</mapy>
+    <mlevel>6</mlevel>
+    <modifiedtime>20250408164315</modifiedtime>
+    <sigungucode>11</sigungucode>
+    <tel></tel>
+    <title>하이원리조트</title>
+  </item>
+  <item>
+    <addr1>강원특별자치도 정선군 사북읍 하이원길 265</addr1>
+    <addr2></addr2>
+    <areacode>32</areacode>
+    <booktour>0</booktour>
+    <cat1>A02</cat1>
+    <cat2>A0202</cat2>
+    <cat3>A02020500</cat3>
+    <contentid>2714875</contentid>
+    <contenttypeid>12</contenttypeid>
+    <createdtime>20210429185947</createdtime>
+    <dist>2819.8373534303405</dist>
+    <firstimage></firstimage>
+    <firstimage2></firstimage2>
+    <cpyrhtDivCd></cpyrhtDivCd>
+    <mapx>128.8216009997</mapx>
+    <mapy>37.2127210495</mapy>
+    <mlevel>6</mlevel>
+    <modifiedtime>20241226175018</modifiedtime>
+    <sigungucode>11</sigungucode>
+    <tel></tel>
+    <title>하이원리조트 HAO 웰니스</title>
+  </item>
+  <item>
+    <addr1>강원특별자치도 정선군 고한읍 하이원길 265-1</addr1>
+    <addr2></addr2>
+    <areacode>32</areacode>
+    <booktour>0</booktour>
+    <cat1>A02</cat1>
+    <cat2>A0203</cat2>
+    <cat3>A02030400</cat3>
+    <contentid>2783068</contentid>
+    <contenttypeid>12</contenttypeid>
+    <createdtime>20211130004138</createdtime>
+    <dist>2279.9208393804834</dist>
+    <firstimage>http://tong.visitkorea.or.kr/cms/resource/63/2785663_image2_1.jpg</firstimage>
+    <firstimage2>http://tong.visitkorea.or.kr/cms/resource/63/2785663_image2_1.jpg</firstimage2>
+    <cpyrhtDivCd>Type3</cpyrhtDivCd>
+    <mapx>128.8271727915</mapx>
+    <mapy>37.2104297527</mapy>
+    <mlevel>6</mlevel>
+    <modifiedtime>20250327231742</modifiedtime>
+    <sigungucode>11</sigungucode>
+    <tel></tel>
+    <title>하이원리조트 알파인코스터</title>
+  </item>
+</items>  <numOfRows>4</numOfRows>
+  <pageNo>1</pageNo>
+  <totalCount>4</totalCount>
+</body></response>
